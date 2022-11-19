@@ -1,4 +1,4 @@
-body { background-color: #000000;
+body { background-color: black;
     color: white;    }
    
     article{ background-color:rgb(44, 43, 43)
@@ -8,4 +8,3 @@ body { background-color: #000000;
    .resaltado {color: yellow;}
    
    #titulodelblog {text-align: center;  font-size: 3rem;}
- 
