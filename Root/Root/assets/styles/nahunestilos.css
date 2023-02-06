@@ -17,6 +17,18 @@ padding: 1.5rem;}
    }
    #footer_blog{
       margin: 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-top: 4rem;
+      padding-bottom: 4rem;
+      padding-left: 0rem;
+      padding-right: 0rem;
+      font-size: 1.3rem;
+   }
+   #footer_blog div:nth-child(2){
+      font-size: 0.9rem;
+
    }
 
    .texto{
@@ -77,9 +89,27 @@ padding-bottom: 0.5rem;
    justify-content: space-between;
  }
 
-h2{
+ article header hgroup h2 {
    display: flex;
    align-items: center;
    justify-content: center;
  }
-  
+
+ article header hgroup h2 img{
+   margin-right: 1rem;
+ }
+   
+aside h2{
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+aside div:nth-child(2n){
+   background-color: rgb(44, 43, 43);
+
+}
+aside div img{
+   background-color: #fff;
+   padding: 0.5rem;
+   border-radius: 50%;
+}
