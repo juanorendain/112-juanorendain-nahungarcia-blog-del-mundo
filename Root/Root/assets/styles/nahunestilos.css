@@ -10,7 +10,7 @@ padding: 1.5rem;}
    
    .resaltado {color: yellow;}
    
-   #titulodelblog {text-align: center;  font-size: 3rem;}
+   #titulodelblog {text-align: center;  font-size: 3rem; padding: 3rem;}
 
    .ilustracion{
       border: 4px solid white;
