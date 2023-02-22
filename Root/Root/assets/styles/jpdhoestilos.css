@@ -172,6 +172,10 @@ aside div img{
       padding: 0.6rem;
       border-bottom: 1px dashed #fff;
    }
-
+   @media( min-width: 1024.1px) and (max-width: 1324.1px){
+      aside div{
+         flex-direction: column;
+      }
+   }
   
 
